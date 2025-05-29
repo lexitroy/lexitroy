@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lexitroy
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning and mastered a lil about python, nodejs, javascript, css , sql
-- 📫 How to reach me ig- janvii.__x
+- 📫 How to reach me linkedin- janvichoudharyy
 - 😄 Pronouns: she/her
 
 <!---
